@@ -14,8 +14,8 @@ AgroRobot is an Arduino-based smart agricultural robot designed to automate basi
 
 | File | Description |
 |------|-------------|
-| `AgroRobot_Main.ino` (formerly `neel.ino`) | Core robot control code – manages movement and logic |
-| `AgroRobot_SensorModule.ino` (formerly `ATHARVA arduino.txt`) | Handles sensor input and data collection |
+| `AgroRobot_Main.ino` | Core robot control code – manages movement and logic |
+| `AgroRobot_SensorModule.ino`  | Handles sensor input and data collection |
 
 
 ## 🧰 Hardware Requirements
